@@ -1,9 +1,6 @@
 # English Speaking Fluency Analyzer
 
 **Experiential Learning Project — Language Processing Using Machine Learning and LLMs for Audio, Image, Text, and Other Applications**  
-**Institution:** Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha  
-**Submission Deadline:** 12 November 2026  
-**Group Members:** Aman Kumar Srivastava (`2330287`) & Shivansh Giri (`2330114`)
 
 ## 1. Project Overview
 The **English Speaking Fluency Analyzer** is an end-to-end audio and natural language processing application that evaluates a student's recorded **one-minute English speech**. The system combines acoustic Voice Activity Detection (VAD), disfluency-preserving Automatic Speech Recognition (ASR) with word-level timestamps, quantitative prosodic feature extraction, and an instruction-tuned Large Language Model (LLM) to compute objective fluency metrics and deliver actionable coaching feedback.

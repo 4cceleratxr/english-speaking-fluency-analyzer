@@ -1,0 +1,4 @@
+Sample_ID,Profile,Duration_s,Total_Words,Speaking_Rate_WPM,Articulation_Rate_WPM,Phonation_Ratio_Pct,Natural_Pauses,Hesitation_Pauses,Mean_Pause_s,Filler_Count,Filler_Density_Pct,Fluency_Score_100,CEFR_Band
+S01_Intermediate_Hesitant,Sample A: Intermediate Learner (Frequent Hesitations),60.0,108,108.0,156.5,69.0,6,8,0.94,14,13.0,43.2,A2 (Developing)
+S02_Fluent_Balanced,Sample B: Proficient Speaker (Balanced Pace & Low Fillers),60.0,146,146.0,178.0,82.0,6,1,0.49,3,2.1,94.5,C1/C2 (Advanced Fluent)
+S03_Fast_Cluttered,Sample C: Rapid Speaker (Rushed Delivery & Discourse Fillers),60.0,184,184.0,206.7,89.0,2,2,0.55,11,6.0,70.4,B1 (Intermediate)
